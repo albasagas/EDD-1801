@@ -1,0 +1,11 @@
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\WebTest2.webtest
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\BDISLoadTest.dll
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\BDISLoadTest.pdb
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\obj\Debug\BDISLoadTest.csprojResolveAssemblyReference.cache
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\obj\Debug\BDISLoadTest.dll
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\obj\Debug\BDISLoadTest.pdb
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\LoginLookForA0000000000LogOut.webtest
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\LoadTest1.loadtest
+c:\users\alba.sagastume\documents\visual studio 2015\Projects\BDISLoadTest\BDISLoadTest\bin\Debug\GenericTest1.GenericTest
