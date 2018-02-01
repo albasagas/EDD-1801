@@ -8,8 +8,9 @@ namespace Lab1
     {
         public void Configuration(IAppBuilder app)
         {
-
-            ConfigureAuth(app);
+	    int a = 5;
+	    a = a + 5;
+            ConfigureAuth( app);
 
         }
     }
